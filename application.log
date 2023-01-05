@@ -1,0 +1,11 @@
+DEBUG:2023-01-04 19:06:15,947:La configuration du logger est terminée
+DEBUG:2023-01-04 19:06:16,203:La fenetre principale a bien été crée
+DEBUG:2023-01-04 19:06:16,378:Lecture du fichier de résolution
+DEBUG:2023-01-04 19:06:16,379:modification du fichier de résolution
+DEBUG:2023-01-04 19:06:16,380:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-04 19:06:16,381:Affichage du niveau
+DEBUG:2023-01-04 19:06:16,384:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-04 19:06:16,384:Vérification des conditions de blocage
+WARNING:2023-01-04 19:06:21,234:Enregistrement du fichier de résolution
+WARNING:2023-01-04 19:06:21,243:Si un enregistrement était nécéssaire, il a bien eu lieu
+INFO:2023-01-04 19:06:21,244:Fin du jeu
