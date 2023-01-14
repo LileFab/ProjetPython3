@@ -14,7 +14,7 @@ et executez le script "game.pyw"
 
 Les règles précises et les commandes sont fournies dans le jeu
 
-Pour remetttre a zéro le fait d'avoir résolu un niveau, vous pouvez modifier le fichier "Résolu.txt"
+Pour remetttre a zéro le fait d'avoir résolu un niveau, vous pouvez modifier le fichier "progression.txt"
 et remplacer les 'Oui' par des 'Non'
 
 Amusez vous bien ;)
