@@ -1,23 +1,10 @@
-#!/usr/bin/python3
-# -*- coding: utf-8 -*-
-#########################################
-#                                       #
-# Nom du programme : SOLITAIRE A BILLE  #
-#                                       #
-# Auteurs : ......... GARBAY / FLEISCH  #
-#                                       #
-# Création : ........ 12/2022 - 01/2023 #
-#                                       #
-# Programmé en : ... Python             #
-#                                       #
-#########################################
 
 ## Importation des bibliothèques
 import logging
 import sys
 import tkinter
 from tkinter import *
-from tkinter import ttk, messagebox
+from tkinter import messagebox, ttk
 
 ## Fin d'importation des bibliothèques
 
@@ -31,34 +18,6 @@ logging.debug("La fenetre principale a bien été crée")
 
 
 ## Fonctions et procédures
-def endGame():
-    ## Quitter le jeu
-    reponse = tkinter.messagebox.askyesno("Terminer le jeu",
-                                          "Voulez-vous réellement quitter ? \n Cliquer « Oui » pour finir")
-    if reponse:
-        ## On enregistre les éventuelles modifications
-        ## du fichier 'progresion.txt'
-        saveFile()
-        ## On quitte le programme
-        logging.info('Fin du jeu')
-        win.quit()
-
-
-def aboutWindow():
-    logging.debug("Création et affichage de la fenêtre d'information")
-    global ws, hs
-    aboutWin = newWindow(284, 466, "À propos de ...")
-    labelAbout = Label(aboutWin, background='white', foreground='black', font=fonte, justify='left')
-    txtAbout = 'SOLITAIRE A BILLE\n\n'
-    txtAbout = txtAbout + 'Fabien FLEISCH & Pierre GARBAY 12/2022 - 01/2023\n\n'
-    txtAbout = txtAbout + 'Jeu programmé en Python\n\n'
-    txtAbout = txtAbout + 'Illustrations par Pierre GARBAY.\n\n'
-    labelAbout.configure(text=txtAbout)
-    labelAbout.grid(row=0, column=0, padx=5, pady=10)
-    aboutButtonQuit = ttk.Button(aboutWin, style='BW.TButton', text='Quitter', command=aboutWin.destroy)
-    aboutButtonQuit.grid(row=1, column=0, pady=10)
-    logging.debug("Fermeture de la fenêtre d'info et remise en place du top level sur la fenetre de jeu")
-
 
 def HelpWindow():
     logging.debug("Création et affichage de la fenêtre d'aide")
@@ -86,10 +45,8 @@ def HelpWindow():
     txtHelp = txtHelp + "> : Aller au niveau suivant.\n"
     txtHelp = txtHelp + ">> : Aller au dernier niveau.\n"
     txtHelp = txtHelp + "R : Annuler le dernier coup.\n"
-    txtHelp = txtHelp + "D : Recharger le niveau actuel.\n"
-    txtHelp = txtHelp + "? : Aider.\n"
-    txtHelp = txtHelp + "... : À propos de ...\n"
-    txtHelp = txtHelp + "X : Quitter."
+    txtHelp = txtHelp + "D : Recommencer le niveau.\n"
+    txtHelp = txtHelp + "? : Aide.\n"
     labelHelp.configure(text=txtHelp)
     labelHelp.grid(row=0, column=0, padx=5, pady=10)
     helpButtonQuit = ttk.Button(helpWin, style='BW.TButton', text='Quitter', command=helpWin.destroy)
@@ -161,7 +118,7 @@ def cancelLastMove():  ## Possible que si partie non finie
 
 
 def moveLastLevel():
-    logging.warning("Avancée au dernier niveau")
+    logging.debug("Avancée au dernier niveau")
     global gameInProgress, endedGame, posX, posY, lvl, formerX, formerY
     ## On va au dernier niveau (si < maxi)
     if lvl < MAX:
@@ -186,7 +143,7 @@ def moveLastLevel():
 
 
 def moveNextLevel():
-    logging.warning("Avancée au niveau suppérieur")
+    logging.debug("Avancée au niveau suppérieur")
     global gameInProgress, endedGame, posX, posY, lvl, formerX, formerY
     ## On va au niveau suivant (si niveau actuel < niveau max)
     if lvl < MAX:
@@ -211,7 +168,7 @@ def moveNextLevel():
 
 
 def movePreviousLevel():
-    logging.warning("Descente d'un niveau")
+    logging.debug("Descente d'un niveau")
     global gameInProgress, endedGame, posX, posY, lvl, formerX, formerY
     ## On va au niveau précédent (si niveau actuel > niveau min)
     if lvl > MIN:
@@ -236,7 +193,7 @@ def movePreviousLevel():
 
 
 def moveFirstLevel():
-    logging.warning("Retour au niveau 1")
+    logging.debug("Retour au niveau 1")
     global gameInProgress, endedGame, posX, posY, lvl, formerX, formerY
     ## On va au premier niveau (si pas mini)
     if lvl > MIN:
@@ -312,8 +269,7 @@ def gameCheck(n):
             solvedLevels[lvl - 1] = 'Oui'
             SolvedLabel()
         ## On informe le joueur qu'il a gagné
-        rep = messagebox.showinfo("VICTOIRE !!",
-                                  "Vous avez réussi à terminer ce niveau avec succès !!\n\nPensez à essayer un autre niveau...")
+        rep = messagebox.showinfo("VICTOIRE !", "Vous avez fini ce plateau")
         logging.info("La partie à été remportée")
     else:
         isGameBlocked()
@@ -360,7 +316,7 @@ def isGameBlocked():
         ## On envoie un messagebox
         logging.warning("La partie est perdue, plus aucun mouvement possible")
         repv = messagebox.showinfo('Plus de possibilité',
-                                   "Il n'existe plus de possibilité !\n\nMerci de retenter le niveau ou d'en essayer un autre !!")
+                                   "Retenter le niveau ou bien essayer en un autre")
 
 
 def saveFile():
@@ -542,10 +498,6 @@ restartButton = Button(frbutton, text='D', width=4, font=fonte, command=reload)
 restartButton.grid(row=0, column=5)
 helpButton = Button(frbutton, text='?', width=4, font=fonte, command=HelpWindow)
 helpButton.grid(row=0, column=6)
-aboutButton = Button(frbutton, text='...', width=4, font=fonte, command=aboutWindow)
-aboutButton.grid(row=0, column=7)
-quitButton = Button(frbutton, text='X', width=4, font=fonte, command=endGame)
-quitButton.grid(row=0, column=8)
 ## Fin Intérieur Fenêtre
 
 ## On lit le fichier 'progression.txt' et on affiche le résultat dans le Label
@@ -567,10 +519,6 @@ a = (ws - w) // 2
 b = (hs - h) // 2
 win.geometry("%dx%d+%d+%d" % (w, h, a, b))
 ## Fin placement de la fenêtre
-
-## Fonction de fermeture de la fenêtre
-win.protocol("WM_DELETE_WINDOW", endGame)
-## Fin fonction fermeture de fenêtre
 
 ## Liens d'action
 canv.bind('<Button-1>', main)

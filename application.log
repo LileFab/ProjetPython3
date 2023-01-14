@@ -9,3 +9,584 @@ DEBUG:2023-01-04 19:06:16,384:Vérification des conditions de blocage
 WARNING:2023-01-04 19:06:21,234:Enregistrement du fichier de résolution
 WARNING:2023-01-04 19:06:21,243:Si un enregistrement était nécéssaire, il a bien eu lieu
 INFO:2023-01-04 19:06:21,244:Fin du jeu
+DEBUG:2023-01-14 17:30:06,476:La configuration du logger est terminée
+DEBUG:2023-01-14 17:30:07,120:La fenetre principale a bien été crée
+DEBUG:2023-01-14 17:30:07,172:Lecture du fichier de résolution
+DEBUG:2023-01-14 17:30:07,179:modification du fichier de résolution
+DEBUG:2023-01-14 17:30:07,180:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:07,187:Affichage du niveau
+DEBUG:2023-01-14 17:30:07,189:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:07,189:Vérification des conditions de blocage
+WARNING:2023-01-14 17:30:09,916:Avancée au niveau suppérieur
+DEBUG:2023-01-14 17:30:09,916:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:09,925:Affichage du niveau
+DEBUG:2023-01-14 17:30:09,925:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:09,926:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:09,926:modification du fichier de résolution
+WARNING:2023-01-14 17:30:10,417:Avancée au niveau suppérieur
+DEBUG:2023-01-14 17:30:10,418:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:10,428:Affichage du niveau
+DEBUG:2023-01-14 17:30:10,429:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:10,429:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:10,430:modification du fichier de résolution
+WARNING:2023-01-14 17:30:10,842:Avancée au niveau suppérieur
+DEBUG:2023-01-14 17:30:10,843:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:10,850:Affichage du niveau
+DEBUG:2023-01-14 17:30:10,850:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:10,850:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:10,850:modification du fichier de résolution
+WARNING:2023-01-14 17:30:11,163:Avancée au niveau suppérieur
+DEBUG:2023-01-14 17:30:11,164:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:11,170:Affichage du niveau
+DEBUG:2023-01-14 17:30:11,170:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:11,170:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:11,170:modification du fichier de résolution
+WARNING:2023-01-14 17:30:11,574:Avancée au niveau suppérieur
+DEBUG:2023-01-14 17:30:11,575:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:11,585:Affichage du niveau
+DEBUG:2023-01-14 17:30:11,587:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:11,587:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:11,588:modification du fichier de résolution
+WARNING:2023-01-14 17:30:12,224:Avancée au niveau suppérieur
+DEBUG:2023-01-14 17:30:12,226:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:12,235:Affichage du niveau
+DEBUG:2023-01-14 17:30:12,237:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:12,237:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:12,237:modification du fichier de résolution
+WARNING:2023-01-14 17:30:12,740:Avancée au niveau suppérieur
+DEBUG:2023-01-14 17:30:12,740:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:12,752:Affichage du niveau
+DEBUG:2023-01-14 17:30:12,753:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:12,753:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:12,753:modification du fichier de résolution
+WARNING:2023-01-14 17:30:13,271:Avancée au niveau suppérieur
+DEBUG:2023-01-14 17:30:13,271:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:13,282:Affichage du niveau
+DEBUG:2023-01-14 17:30:13,283:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:13,283:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:13,283:modification du fichier de résolution
+WARNING:2023-01-14 17:30:13,773:Avancée au niveau suppérieur
+DEBUG:2023-01-14 17:30:13,773:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:13,783:Affichage du niveau
+DEBUG:2023-01-14 17:30:13,784:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:13,784:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:13,784:modification du fichier de résolution
+WARNING:2023-01-14 17:30:14,251:Avancée au niveau suppérieur
+WARNING:2023-01-14 17:30:14,623:Avancée au niveau suppérieur
+WARNING:2023-01-14 17:30:15,025:Avancée au niveau suppérieur
+WARNING:2023-01-14 17:30:15,735:Descente d'un niveau
+DEBUG:2023-01-14 17:30:15,735:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:15,735:Affichage du niveau
+DEBUG:2023-01-14 17:30:15,736:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:15,736:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:15,736:modification du fichier de résolution
+WARNING:2023-01-14 17:30:15,971:Descente d'un niveau
+DEBUG:2023-01-14 17:30:15,971:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:15,972:Affichage du niveau
+DEBUG:2023-01-14 17:30:15,973:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:15,973:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:15,974:modification du fichier de résolution
+WARNING:2023-01-14 17:30:16,209:Descente d'un niveau
+DEBUG:2023-01-14 17:30:16,209:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:16,209:Affichage du niveau
+DEBUG:2023-01-14 17:30:16,209:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:16,209:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:16,209:modification du fichier de résolution
+WARNING:2023-01-14 17:30:16,426:Descente d'un niveau
+DEBUG:2023-01-14 17:30:16,426:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:16,427:Affichage du niveau
+DEBUG:2023-01-14 17:30:16,430:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:16,430:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:16,430:modification du fichier de résolution
+WARNING:2023-01-14 17:30:16,669:Descente d'un niveau
+DEBUG:2023-01-14 17:30:16,669:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:16,670:Affichage du niveau
+DEBUG:2023-01-14 17:30:16,670:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:16,670:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:16,670:modification du fichier de résolution
+WARNING:2023-01-14 17:30:16,933:Descente d'un niveau
+DEBUG:2023-01-14 17:30:16,934:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:16,934:Affichage du niveau
+DEBUG:2023-01-14 17:30:16,935:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:16,935:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:16,935:modification du fichier de résolution
+WARNING:2023-01-14 17:30:17,364:Descente d'un niveau
+DEBUG:2023-01-14 17:30:17,364:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:17,365:Affichage du niveau
+DEBUG:2023-01-14 17:30:17,365:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:17,365:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:17,365:modification du fichier de résolution
+WARNING:2023-01-14 17:30:17,797:Descente d'un niveau
+DEBUG:2023-01-14 17:30:17,797:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:17,797:Affichage du niveau
+DEBUG:2023-01-14 17:30:17,798:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:17,798:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:17,798:modification du fichier de résolution
+WARNING:2023-01-14 17:30:18,305:Descente d'un niveau
+DEBUG:2023-01-14 17:30:18,305:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:30:18,305:Affichage du niveau
+DEBUG:2023-01-14 17:30:18,306:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:30:18,306:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:30:18,306:modification du fichier de résolution
+WARNING:2023-01-14 17:30:18,605:Descente d'un niveau
+WARNING:2023-01-14 17:30:18,849:Descente d'un niveau
+WARNING:2023-01-14 17:30:19,086:Descente d'un niveau
+WARNING:2023-01-14 17:30:19,316:Descente d'un niveau
+WARNING:2023-01-14 17:40:11,292:Retour au niveau 1
+WARNING:2023-01-14 17:40:11,983:Avancée au dernier niveau
+DEBUG:2023-01-14 17:40:11,983:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:40:11,984:Affichage du niveau
+DEBUG:2023-01-14 17:40:11,985:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:40:11,985:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:40:11,985:modification du fichier de résolution
+WARNING:2023-01-14 17:40:12,723:Descente d'un niveau
+DEBUG:2023-01-14 17:40:12,723:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:40:12,724:Affichage du niveau
+DEBUG:2023-01-14 17:40:12,726:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:40:12,726:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:40:12,726:modification du fichier de résolution
+WARNING:2023-01-14 17:40:13,327:Retour au niveau 1
+DEBUG:2023-01-14 17:40:13,327:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:40:13,328:Affichage du niveau
+DEBUG:2023-01-14 17:40:13,328:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:40:13,328:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:40:13,329:modification du fichier de résolution
+WARNING:2023-01-14 17:41:09,375:Annulation du dernier coup
+DEBUG:2023-01-14 17:41:09,375:Remise en place des ancienne coordonnées de la dernière boule jouée
+DEBUG:2023-01-14 17:41:09,375:Affichage du niveau
+DEBUG:2023-01-14 17:41:09,376:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:09,377:Vérification des conditions de blocage
+WARNING:2023-01-14 17:41:10,510:Annulation du dernier coup
+DEBUG:2023-01-14 17:41:10,510:Remise en place des ancienne coordonnées de la dernière boule jouée
+DEBUG:2023-01-14 17:41:10,511:Affichage du niveau
+DEBUG:2023-01-14 17:41:10,511:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:10,511:Vérification des conditions de blocage
+WARNING:2023-01-14 17:41:10,801:Annulation du dernier coup
+DEBUG:2023-01-14 17:41:10,802:Remise en place des ancienne coordonnées de la dernière boule jouée
+DEBUG:2023-01-14 17:41:10,802:Affichage du niveau
+DEBUG:2023-01-14 17:41:10,803:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:10,803:Vérification des conditions de blocage
+WARNING:2023-01-14 17:41:11,032:Annulation du dernier coup
+DEBUG:2023-01-14 17:41:11,033:Remise en place des ancienne coordonnées de la dernière boule jouée
+DEBUG:2023-01-14 17:41:11,033:Affichage du niveau
+DEBUG:2023-01-14 17:41:11,034:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:11,034:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:41:12,373:Affichage du niveau
+DEBUG:2023-01-14 17:41:12,373:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:12,373:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:41:13,374:Affichage du niveau
+DEBUG:2023-01-14 17:41:13,374:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:13,374:Vérification des conditions de blocage
+WARNING:2023-01-14 17:41:14,695:Annulation du dernier coup
+DEBUG:2023-01-14 17:41:14,696:Remise en place des ancienne coordonnées de la dernière boule jouée
+DEBUG:2023-01-14 17:41:14,696:Affichage du niveau
+DEBUG:2023-01-14 17:41:14,697:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:14,697:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:41:30,098:Affichage du niveau
+DEBUG:2023-01-14 17:41:30,100:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:30,100:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:41:31,177:Affichage du niveau
+DEBUG:2023-01-14 17:41:31,178:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:31,178:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:41:31,930:Affichage du niveau
+DEBUG:2023-01-14 17:41:31,931:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:31,931:Vérification des conditions de blocage
+WARNING:2023-01-14 17:41:33,139:Annulation du dernier coup
+DEBUG:2023-01-14 17:41:33,139:Remise en place des ancienne coordonnées de la dernière boule jouée
+DEBUG:2023-01-14 17:41:33,139:Affichage du niveau
+DEBUG:2023-01-14 17:41:33,140:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:33,140:Vérification des conditions de blocage
+WARNING:2023-01-14 17:41:34,029:Annulation du dernier coup
+DEBUG:2023-01-14 17:41:34,029:Remise en place des ancienne coordonnées de la dernière boule jouée
+DEBUG:2023-01-14 17:41:34,029:Affichage du niveau
+DEBUG:2023-01-14 17:41:34,030:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:34,030:Vérification des conditions de blocage
+WARNING:2023-01-14 17:41:35,326:Annulation du dernier coup
+DEBUG:2023-01-14 17:41:35,326:Remise en place des ancienne coordonnées de la dernière boule jouée
+DEBUG:2023-01-14 17:41:35,326:Affichage du niveau
+DEBUG:2023-01-14 17:41:35,328:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:35,328:Vérification des conditions de blocage
+WARNING:2023-01-14 17:41:35,658:Annulation du dernier coup
+DEBUG:2023-01-14 17:41:35,659:Remise en place des ancienne coordonnées de la dernière boule jouée
+DEBUG:2023-01-14 17:41:35,659:Affichage du niveau
+DEBUG:2023-01-14 17:41:35,659:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:35,659:Vérification des conditions de blocage
+WARNING:2023-01-14 17:41:36,282:Le niveau est remis à zéro
+DEBUG:2023-01-14 17:41:36,283:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:41:36,283:Affichage du niveau
+DEBUG:2023-01-14 17:41:36,284:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:41:36,284:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:42:36,433:Création et affichage de la fenêtre d'aide
+DEBUG:2023-01-14 17:42:36,447:Fermeture de la fenêtre d'aide et remise en place du top level sur la fenetre de jeu
+DEBUG:2023-01-14 17:43:02,006:Création et affichage de la fenêtre d'information
+DEBUG:2023-01-14 17:43:02,015:Fermeture de la fenêtre d'info et remise en place du top level sur la fenetre de jeu
+DEBUG:2023-01-14 17:43:20,013:Création et affichage de la fenêtre d'information
+DEBUG:2023-01-14 17:43:20,018:Fermeture de la fenêtre d'info et remise en place du top level sur la fenetre de jeu
+WARNING:2023-01-14 17:50:52,181:Enregistrement du fichier de résolution
+WARNING:2023-01-14 17:50:52,183:Si un enregistrement était nécéssaire, il a bien eu lieu
+INFO:2023-01-14 17:50:52,183:Fin du jeu
+DEBUG:2023-01-14 17:50:57,416:La configuration du logger est terminée
+DEBUG:2023-01-14 17:50:57,486:La fenetre principale a bien été crée
+DEBUG:2023-01-14 17:50:57,500:Lecture du fichier de résolution
+DEBUG:2023-01-14 17:50:57,501:modification du fichier de résolution
+DEBUG:2023-01-14 17:50:57,502:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:50:57,502:Affichage du niveau
+DEBUG:2023-01-14 17:50:57,502:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:50:57,502:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:51:05,787:La configuration du logger est terminée
+DEBUG:2023-01-14 17:51:05,890:La fenetre principale a bien été crée
+DEBUG:2023-01-14 17:51:05,918:Lecture du fichier de résolution
+DEBUG:2023-01-14 17:51:05,919:modification du fichier de résolution
+DEBUG:2023-01-14 17:51:05,919:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:51:05,919:Affichage du niveau
+DEBUG:2023-01-14 17:51:05,920:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:51:05,920:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:58:34,969:Affichage du niveau
+DEBUG:2023-01-14 17:58:34,969:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:58:34,969:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:58:35,924:Affichage du niveau
+DEBUG:2023-01-14 17:58:35,925:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:58:35,925:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:58:36,713:Affichage du niveau
+DEBUG:2023-01-14 17:58:36,713:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:58:36,713:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:58:37,317:Affichage du niveau
+DEBUG:2023-01-14 17:58:37,318:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:58:37,319:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:58:57,376:Affichage du niveau
+DEBUG:2023-01-14 17:58:57,378:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:58:57,378:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:58:58,209:Affichage du niveau
+DEBUG:2023-01-14 17:58:58,210:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:58:58,210:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:58:59,138:Affichage du niveau
+DEBUG:2023-01-14 17:58:59,139:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:58:59,140:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:58:59,782:Affichage du niveau
+DEBUG:2023-01-14 17:58:59,782:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:58:59,782:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:00,755:Affichage du niveau
+DEBUG:2023-01-14 17:59:00,757:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:00,758:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:01,700:Affichage du niveau
+DEBUG:2023-01-14 17:59:01,702:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:01,703:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:02,523:Affichage du niveau
+DEBUG:2023-01-14 17:59:02,525:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:02,525:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:04,715:Affichage du niveau
+DEBUG:2023-01-14 17:59:04,716:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:04,716:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:05,446:Affichage du niveau
+DEBUG:2023-01-14 17:59:05,448:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:05,449:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:06,193:Affichage du niveau
+DEBUG:2023-01-14 17:59:06,195:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:06,195:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:06,933:Affichage du niveau
+DEBUG:2023-01-14 17:59:06,934:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:06,934:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:08,032:Affichage du niveau
+DEBUG:2023-01-14 17:59:08,033:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:08,033:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:08,883:Affichage du niveau
+DEBUG:2023-01-14 17:59:08,884:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:08,884:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:09,571:Affichage du niveau
+DEBUG:2023-01-14 17:59:09,573:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:09,573:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:10,674:Affichage du niveau
+DEBUG:2023-01-14 17:59:10,675:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:10,675:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:11,994:Affichage du niveau
+DEBUG:2023-01-14 17:59:11,996:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:11,996:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:12,774:Affichage du niveau
+DEBUG:2023-01-14 17:59:12,775:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:12,775:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:13,624:Affichage du niveau
+DEBUG:2023-01-14 17:59:13,625:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:13,625:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:14,244:Affichage du niveau
+DEBUG:2023-01-14 17:59:14,245:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:14,245:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:14,935:Affichage du niveau
+DEBUG:2023-01-14 17:59:14,936:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:14,936:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:16,727:Affichage du niveau
+DEBUG:2023-01-14 17:59:16,728:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:16,728:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:17,466:Affichage du niveau
+DEBUG:2023-01-14 17:59:17,467:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:17,467:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:18,076:Affichage du niveau
+DEBUG:2023-01-14 17:59:18,076:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:18,076:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:19,907:Affichage du niveau
+DEBUG:2023-01-14 17:59:19,907:Vérification du niveau d'avancement de la partie
+INFO:2023-01-14 17:59:50,375:La partie à été remportée
+WARNING:2023-01-14 17:59:51,886:Avancée au niveau suppérieur
+DEBUG:2023-01-14 17:59:51,886:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 17:59:51,887:Affichage du niveau
+DEBUG:2023-01-14 17:59:51,889:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:51,889:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:51,889:modification du fichier de résolution
+DEBUG:2023-01-14 17:59:55,744:Affichage du niveau
+DEBUG:2023-01-14 17:59:55,744:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:55,744:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:56,405:Affichage du niveau
+DEBUG:2023-01-14 17:59:56,406:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:56,406:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:57,079:Affichage du niveau
+DEBUG:2023-01-14 17:59:57,081:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:57,081:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:57,897:Affichage du niveau
+DEBUG:2023-01-14 17:59:57,898:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:57,898:Vérification des conditions de blocage
+DEBUG:2023-01-14 17:59:59,278:Affichage du niveau
+DEBUG:2023-01-14 17:59:59,279:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 17:59:59,279:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:00:00,233:Affichage du niveau
+DEBUG:2023-01-14 18:00:00,234:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:00:00,234:Vérification des conditions de blocage
+WARNING:2023-01-14 18:00:00,235:La partie est perdue, plus aucun mouvement possible
+DEBUG:2023-01-14 18:03:12,831:La configuration du logger est terminée
+DEBUG:2023-01-14 18:03:12,898:La fenetre principale a bien été crée
+DEBUG:2023-01-14 18:03:12,911:Lecture du fichier de résolution
+DEBUG:2023-01-14 18:03:12,912:modification du fichier de résolution
+DEBUG:2023-01-14 18:03:12,912:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 18:03:12,912:Affichage du niveau
+DEBUG:2023-01-14 18:03:12,913:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:12,913:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:17,124:Affichage du niveau
+DEBUG:2023-01-14 18:03:17,126:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:17,127:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:17,998:Affichage du niveau
+DEBUG:2023-01-14 18:03:18,000:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:18,000:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:18,802:Affichage du niveau
+DEBUG:2023-01-14 18:03:18,804:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:18,804:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:19,530:Affichage du niveau
+DEBUG:2023-01-14 18:03:19,530:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:19,530:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:20,387:Affichage du niveau
+DEBUG:2023-01-14 18:03:20,389:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:20,389:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:20,952:Affichage du niveau
+DEBUG:2023-01-14 18:03:20,953:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:20,953:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:21,725:Affichage du niveau
+DEBUG:2023-01-14 18:03:21,726:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:21,726:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:22,478:Affichage du niveau
+DEBUG:2023-01-14 18:03:22,479:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:22,479:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:23,545:Affichage du niveau
+DEBUG:2023-01-14 18:03:23,546:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:23,546:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:24,083:Affichage du niveau
+DEBUG:2023-01-14 18:03:24,084:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:24,084:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:24,867:Affichage du niveau
+DEBUG:2023-01-14 18:03:24,868:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:24,868:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:25,646:Affichage du niveau
+DEBUG:2023-01-14 18:03:25,647:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:25,647:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:26,588:Affichage du niveau
+DEBUG:2023-01-14 18:03:26,588:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:26,588:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:27,395:Affichage du niveau
+DEBUG:2023-01-14 18:03:27,396:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:27,396:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:28,022:Affichage du niveau
+DEBUG:2023-01-14 18:03:28,022:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:28,022:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:28,819:Affichage du niveau
+DEBUG:2023-01-14 18:03:28,820:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:28,820:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:29,430:Affichage du niveau
+DEBUG:2023-01-14 18:03:29,431:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:29,431:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:30,294:Affichage du niveau
+DEBUG:2023-01-14 18:03:30,295:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:30,295:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:31,126:Affichage du niveau
+DEBUG:2023-01-14 18:03:31,127:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:31,127:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:31,849:Affichage du niveau
+DEBUG:2023-01-14 18:03:31,850:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:31,850:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:32,743:Affichage du niveau
+DEBUG:2023-01-14 18:03:32,743:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:32,743:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:33,644:Affichage du niveau
+DEBUG:2023-01-14 18:03:33,644:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:33,644:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:34,512:Affichage du niveau
+DEBUG:2023-01-14 18:03:34,513:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:34,513:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:35,182:Affichage du niveau
+DEBUG:2023-01-14 18:03:35,182:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:35,182:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:35,803:Affichage du niveau
+DEBUG:2023-01-14 18:03:35,804:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:35,804:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:36,578:Affichage du niveau
+DEBUG:2023-01-14 18:03:36,579:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:36,579:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:37,224:Affichage du niveau
+DEBUG:2023-01-14 18:03:37,225:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:37,225:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:37,987:Affichage du niveau
+DEBUG:2023-01-14 18:03:37,988:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:03:37,989:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:03:38,663:Affichage du niveau
+DEBUG:2023-01-14 18:03:38,664:Vérification du niveau d'avancement de la partie
+INFO:2023-01-14 18:04:18,229:La partie à été remportée
+DEBUG:2023-01-14 18:04:23,756:La configuration du logger est terminée
+DEBUG:2023-01-14 18:04:23,822:La fenetre principale a bien été crée
+DEBUG:2023-01-14 18:04:23,841:Lecture du fichier de résolution
+DEBUG:2023-01-14 18:04:23,841:modification du fichier de résolution
+DEBUG:2023-01-14 18:04:23,841:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 18:04:23,842:Affichage du niveau
+DEBUG:2023-01-14 18:04:23,843:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:23,843:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:26,348:Affichage du niveau
+DEBUG:2023-01-14 18:04:26,349:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:26,349:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:27,178:Affichage du niveau
+DEBUG:2023-01-14 18:04:27,179:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:27,179:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:27,963:Affichage du niveau
+DEBUG:2023-01-14 18:04:27,965:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:27,965:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:28,790:Affichage du niveau
+DEBUG:2023-01-14 18:04:28,791:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:28,791:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:29,685:Affichage du niveau
+DEBUG:2023-01-14 18:04:29,686:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:29,686:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:30,348:Affichage du niveau
+DEBUG:2023-01-14 18:04:30,348:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:30,348:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:31,158:Affichage du niveau
+DEBUG:2023-01-14 18:04:31,160:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:31,160:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:31,680:Affichage du niveau
+DEBUG:2023-01-14 18:04:31,681:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:31,681:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:32,597:Affichage du niveau
+DEBUG:2023-01-14 18:04:32,598:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:32,598:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:33,397:Affichage du niveau
+DEBUG:2023-01-14 18:04:33,398:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:33,398:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:34,170:Affichage du niveau
+DEBUG:2023-01-14 18:04:34,171:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:34,171:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:34,911:Affichage du niveau
+DEBUG:2023-01-14 18:04:34,912:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:34,912:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:35,746:Affichage du niveau
+DEBUG:2023-01-14 18:04:35,746:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:35,746:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:36,814:Affichage du niveau
+DEBUG:2023-01-14 18:04:36,815:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:36,815:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:37,482:Affichage du niveau
+DEBUG:2023-01-14 18:04:37,483:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:37,483:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:38,167:Affichage du niveau
+DEBUG:2023-01-14 18:04:38,168:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:38,168:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:38,760:Affichage du niveau
+DEBUG:2023-01-14 18:04:38,761:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:38,762:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:39,248:Affichage du niveau
+DEBUG:2023-01-14 18:04:39,249:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:39,249:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:39,974:Affichage du niveau
+DEBUG:2023-01-14 18:04:39,975:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:39,976:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:40,542:Affichage du niveau
+DEBUG:2023-01-14 18:04:40,542:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:40,542:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:41,289:Affichage du niveau
+DEBUG:2023-01-14 18:04:41,291:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:41,291:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:41,822:Affichage du niveau
+DEBUG:2023-01-14 18:04:41,823:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:41,823:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:42,443:Affichage du niveau
+DEBUG:2023-01-14 18:04:42,444:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:42,444:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:43,255:Affichage du niveau
+DEBUG:2023-01-14 18:04:43,256:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:43,256:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:43,904:Affichage du niveau
+DEBUG:2023-01-14 18:04:43,906:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:43,906:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:44,588:Affichage du niveau
+DEBUG:2023-01-14 18:04:44,590:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:44,591:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:45,446:Affichage du niveau
+DEBUG:2023-01-14 18:04:45,447:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:04:45,447:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:04:46,630:Affichage du niveau
+DEBUG:2023-01-14 18:04:46,631:Vérification du niveau d'avancement de la partie
+INFO:2023-01-14 18:05:03,904:La partie à été remportée
+WARNING:2023-01-14 18:05:05,715:Avancée au niveau suppérieur
+DEBUG:2023-01-14 18:05:05,715:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 18:05:05,716:Affichage du niveau
+DEBUG:2023-01-14 18:05:05,718:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:05:05,719:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:05:05,719:modification du fichier de résolution
+DEBUG:2023-01-14 18:05:07,182:Affichage du niveau
+DEBUG:2023-01-14 18:05:07,183:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:05:07,183:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:05:08,087:Affichage du niveau
+DEBUG:2023-01-14 18:05:08,088:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:05:08,089:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:05:08,735:Affichage du niveau
+DEBUG:2023-01-14 18:05:08,736:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:05:08,736:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:05:09,413:Affichage du niveau
+DEBUG:2023-01-14 18:05:09,414:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:05:09,414:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:05:10,288:Affichage du niveau
+DEBUG:2023-01-14 18:05:10,289:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:05:10,289:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:05:11,273:Affichage du niveau
+DEBUG:2023-01-14 18:05:11,274:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:05:11,274:Vérification des conditions de blocage
+WARNING:2023-01-14 18:05:11,275:La partie est perdue, plus aucun mouvement possible
+WARNING:2023-01-14 18:19:49,707:Le niveau est remis à zéro
+DEBUG:2023-01-14 18:19:49,707:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 18:19:49,707:Affichage du niveau
+DEBUG:2023-01-14 18:19:49,707:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:19:49,707:Vérification des conditions de blocage
+WARNING:2023-01-14 18:19:50,599:Avancée au dernier niveau
+DEBUG:2023-01-14 18:19:50,599:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 18:19:50,607:Affichage du niveau
+DEBUG:2023-01-14 18:19:50,607:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:19:50,607:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:19:50,607:modification du fichier de résolution
+DEBUG:2023-01-14 18:39:30,938:Création et affichage de la fenêtre d'aide
+DEBUG:2023-01-14 18:39:30,949:Fermeture de la fenêtre d'aide et remise en place du top level sur la fenetre de jeu
+DEBUG:2023-01-14 18:40:21,732:Création et affichage de la fenêtre d'aide
+DEBUG:2023-01-14 18:40:21,745:Fermeture de la fenêtre d'aide et remise en place du top level sur la fenetre de jeu
+DEBUG:2023-01-14 18:40:39,128:La configuration du logger est terminée
+DEBUG:2023-01-14 18:40:39,227:La fenetre principale a bien été crée
+DEBUG:2023-01-14 18:40:39,253:Lecture du fichier de résolution
+DEBUG:2023-01-14 18:40:39,254:modification du fichier de résolution
+DEBUG:2023-01-14 18:40:39,254:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-14 18:40:39,254:Affichage du niveau
+DEBUG:2023-01-14 18:40:39,256:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:40:39,256:Vérification des conditions de blocage
+DEBUG:2023-01-14 18:40:48,757:Création et affichage de la fenêtre d'aide
+DEBUG:2023-01-14 18:40:48,763:Fermeture de la fenêtre d'aide et remise en place du top level sur la fenetre de jeu
+DEBUG:2023-01-14 18:42:27,691:Affichage du niveau
+DEBUG:2023-01-14 18:42:27,692:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-14 18:42:27,692:Vérification des conditions de blocage
