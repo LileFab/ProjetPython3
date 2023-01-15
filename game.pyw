@@ -193,13 +193,7 @@ affichage.display()
 ## Fin de lecture et affichage du niveau
 
 ## Placement de la fenêtre
-w = 700
-h = 800
-ws = win.winfo_screenwidth()
-hs = win.winfo_screenheight()
-a = (ws - w) // 2
-b = (hs - h) // 2
-win.geometry("%dx%d+%d+%d" % (w, h, a, b))
+
 ## Fin placement de la fenêtre
 
 ## Liens d'action

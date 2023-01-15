@@ -1446,3 +1446,34 @@ DEBUG:2023-01-15 20:59:29,428:Affichage du niveau
 DEBUG:2023-01-15 20:59:29,428:Vérification du niveau d'avancement de la partie
 DEBUG:2023-01-15 20:59:29,428:Vérification des conditions de blocage
 WARNING:2023-01-15 20:59:29,428:La partie est perdue, plus aucun mouvement possible
+DEBUG:2023-01-15 21:17:01,277:La configuration du logger est terminée
+DEBUG:2023-01-15 21:17:01,277:La fenetre principale a bien été crée
+DEBUG:2023-01-15 21:17:01,281:Lecture du fichier de résolution
+DEBUG:2023-01-15 21:17:01,282:modification du fichier de résolution
+DEBUG:2023-01-15 21:17:01,282:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-15 21:17:01,283:Affichage du niveau
+DEBUG:2023-01-15 21:17:01,283:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-15 21:17:01,283:Vérification des conditions de blocage
+DEBUG:2023-01-15 21:17:11,322:Création et affichage de la fenêtre d'aide
+DEBUG:2023-01-15 21:18:36,774:La configuration du logger est terminée
+DEBUG:2023-01-15 21:18:36,774:La fenetre principale a bien été crée
+DEBUG:2023-01-15 21:18:36,778:Lecture du fichier de résolution
+DEBUG:2023-01-15 21:18:36,778:modification du fichier de résolution
+DEBUG:2023-01-15 21:18:36,778:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-15 21:18:36,778:Affichage du niveau
+DEBUG:2023-01-15 21:18:36,779:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-15 21:18:36,779:Vérification des conditions de blocage
+DEBUG:2023-01-15 21:18:38,191:Création et affichage de la fenêtre d'aide
+DEBUG:2023-01-15 21:18:38,202:Fermeture de la fenêtre d'aide et remise en place du top level sur la fenetre de jeu
+DEBUG:2023-01-15 21:18:40,519:Création et affichage de la fenêtre d'aide
+DEBUG:2023-01-15 21:18:40,522:Fermeture de la fenêtre d'aide et remise en place du top level sur la fenetre de jeu
+DEBUG:2023-01-15 21:19:05,331:La configuration du logger est terminée
+DEBUG:2023-01-15 21:19:05,332:La fenetre principale a bien été crée
+DEBUG:2023-01-15 21:19:05,336:Lecture du fichier de résolution
+DEBUG:2023-01-15 21:19:05,336:modification du fichier de résolution
+DEBUG:2023-01-15 21:19:05,336:Lecture du fichier de configuration du niveau
+DEBUG:2023-01-15 21:19:05,336:Affichage du niveau
+DEBUG:2023-01-15 21:19:05,337:Vérification du niveau d'avancement de la partie
+DEBUG:2023-01-15 21:19:05,337:Vérification des conditions de blocage
+DEBUG:2023-01-15 21:19:06,656:Création et affichage de la fenêtre d'aide
+DEBUG:2023-01-15 21:19:06,668:Fermeture de la fenêtre d'aide et remise en place du top level sur la fenetre de jeu

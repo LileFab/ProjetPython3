@@ -7,6 +7,13 @@ from tkinter import messagebox, ttk
 import actionJeux
 
 win = Tk()
+w = 700
+h = 800
+ws = win.winfo_screenwidth()
+hs = win.winfo_screenheight()
+a = (ws - w) // 2
+b = (hs - h) // 2
+win.geometry("%dx%d+%d+%d" % (w, h, a, b))
 fonte = ('Arial', 11, 'bold')
 mur = PhotoImage(file='image/Mur.png')
 boule_noire = PhotoImage(file='image/Boule Noire.png')
