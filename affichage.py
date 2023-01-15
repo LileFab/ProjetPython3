@@ -37,7 +37,7 @@ def HelpWindow():
   txtHelp = txtHelp + "1. Choisir une bille et la faire se déplacer par dessus une autre.\n"
   txtHelp = txtHelp + "2. Le déplacement de bille se fait horizontalement ou verticalement.\n"
   txtHelp = txtHelp + "3. La prise de bille ne peut se faire que sur une case vide se\n"
-  txtHelp = txtHelp + "situe immédiatement après la bille par dessus laquelle\n"
+  txtHelp = txtHelp + "situant immédiatement après la bille par dessus laquelle\n"
   txtHelp = txtHelp + " la bille selectionnée passe.\n"
   txtHelp = txtHelp + '4. La bille à prendre doit être adjacente à la bille preneuse.\n'
   txtHelp = txtHelp + '5. Le joueur peut changer de bille preneuse en cours de partie.\n\n'

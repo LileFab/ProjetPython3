@@ -26,15 +26,11 @@ def reload():
     ## On remet les anciennes positions à -1
     formerX = -1
     formerY = -1
-    ## On remet les position à -1
     posX = -1
     posY = -1
-    ## On met partie à True et part à False
     gameInProgress = True
     endedGame = False
-    ## On relit le niveau
     loadGame()
-    ## Et on le réaffiche
     affichage.display()
 
 def loadGame():
@@ -61,7 +57,6 @@ def gameCheck(n):
         if solvedLevels[lvl - 1] == 'Non':
             solvedLevels[lvl - 1] = 'Oui'
             SolvedLabel()
-        ## On informe le joueur qu'il a gagné
         rep = messagebox.showinfo("VICTOIRE !", "Vous avez fini ce plateau")
         logging.info("La partie à été remportée")
     else:
@@ -100,13 +95,10 @@ def isGameBlocked():
             bx = bx + 1
         bx = 0
         by = by + 1
-    ## Si la variable bverif est toujours à False
-    ## il n'y a plus de possibilités
+
     if blockCheck == False:
-        ## On bloque la partie
         gameInProgress = False
         endedGame = True
-        ## On envoie un messagebox
         logging.warning("La partie est perdue, plus aucun mouvement possible")
         repv = messagebox.showinfo('Plus de possibilité',
                                    "Retenter le niveau ou bien essayer en un autre")

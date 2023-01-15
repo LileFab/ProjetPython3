@@ -1,5 +1,4 @@
-
-## Importation des bibliothèques
+## Librairies
 import logging
 import sys
 import tkinter
@@ -10,17 +9,13 @@ import actionJeux
 import affichage
 import navigation
 
-## Fin d'importation des bibliothèques
-
 ## Configuration du log
 logging.basicConfig(filename='application.log', format='%(levelname)s:%(asctime)s:%(message)s', level=logging.DEBUG)
 logging.debug("La configuration du logger est terminée")
 
-# Création fenêtre
 logging.debug("La fenetre principale a bien été crée")
 
 
-## Fonctions et procédures
 
 canv = affichage.canv
 mur = affichage.mur
@@ -147,15 +142,6 @@ def main(event):
                     ## On affiche le tout
                     affichage.display()
 
-
-## Fin fonctions et procédures
-
-## Variables et Images
-
-
-## Fin variables et images
-
-## Intérieur Fenêtre
 win.title('SOLITAIRE')
 win.resizable(height=False, width=False)
 if sys.platform.startswith('linux'):
@@ -180,25 +166,17 @@ restartButton = Button(frbutton, text='D', width=4, font=fonte, command=actionJe
 restartButton.grid(row=0, column=5)
 helpButton = Button(frbutton, text='?', width=4, font=fonte, command=affichage.HelpWindow)
 helpButton.grid(row=0, column=6)
-## Fin Intérieur Fenêtre
 
 ## On lit le fichier 'progression.txt' et on affiche le résultat dans le Label
 actionJeux.readSolvedFile()
 actionJeux.SolvedLabel()
-## Fin lecture et écriture de la résolution du niveau
 
 ## On lit le fichier du niveau en cours et on l'affiche
 actionJeux.loadGame()
 affichage.display()
-## Fin de lecture et affichage du niveau
 
-## Placement de la fenêtre
 
-## Fin placement de la fenêtre
-
-## Liens d'action
 canv.bind('<Button-1>', main)
-## Fin liens d'action
 
 win.mainloop()
 win.destroy()
